@@ -2,6 +2,20 @@
 
 A full-stack e-commerce web application focused on discovering and purchasing Indian handicrafts and traditional products such as Pashmina shawls, Kalamkari, Kolhapuri chappals, Mysore silk, rugs, carpets, and related categories.
 
+## Demo
+
+[![Watch the AKHAYA Demo](https://i.ytimg.com/vi/PaNt5ow4yIs/hqdefault.jpg)](https://youtu.be/PaNt5ow4yIs)
+
+A 2-minute walkthrough of the AKHAYA website covering the main user flows and UI interactions.
+
+## Screenshots
+
+<p align="center">
+  <img src="https://i.ytimg.com/vi/PaNt5ow4yIs/1.jpg" width="32%" alt="AKHAYA screenshot 1">
+  <img src="https://i.ytimg.com/vi/PaNt5ow4yIs/2.jpg" width="32%" alt="AKHAYA screenshot 2">
+  <img src="https://i.ytimg.com/vi/PaNt5ow4yIs/3.jpg" width="32%" alt="AKHAYA screenshot 3">
+</p>
+
 ## Overview
 
 AKHAYA combines a React + TypeScript storefront with a Supabase Edge Function backend. The application includes authentication, product browsing, category filtering, product details, cart management, checkout, and order history.
